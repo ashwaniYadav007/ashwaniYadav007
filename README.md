@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ashwaniYadav007.
 - 👀 I’m interested in Learning and Executing.
 - 🌱 I’m currently learning debugging my life.
-- 📫 Email-ashwanikyadav2401@gmail.com.
+- 📫 Email- ashwanikyadav2401@gmail.com.
 - 📞 Mobile No.-8957016845,9554552675
 
 <!---
